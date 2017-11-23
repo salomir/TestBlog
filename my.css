@@ -1,13 +1,24 @@
 body{
-	background-color:#EAD5AA;
+	background-color:#F4E3B7;
 }
 
 div{
 	font-size: 25px;	
     text-align: center
  }
- p{
+ .van{
 	 color:#00004A;
 	 font-size: 25px;	
-    text-align: center
+     text-align: center
  }
+ .tu{
+	 color:#46A748;
+	 font-size: 25px;	
+     text-align: center
+ }
+ body{
+    background-image:url(228.png);
+    background-repeat: repeat-x;
+	background-repeat: no-repeat;
+    background-position: 820px 350px;
+}
