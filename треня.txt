@@ -2,7 +2,7 @@
 "добавить изменения в git"
 
 
-
+cd documents/soft
 
 
 git add *
