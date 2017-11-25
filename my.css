@@ -63,7 +63,18 @@ div{
 }
  
  
- 
+ .hu10{
+	 border="0"
+		 style="position: fixed ;
+		 font-size: 14px; 
+	     height: 25px;
+	     width: 250px;
+	     border: 0px ;
+	     position: fixed;
+	     top: 380px;
+	     left: 800px; 
+		 "
+ }
  
  
  
