@@ -16,56 +16,8 @@ div{
 	 font-size: 25px;	
      text-align: center
  }
-   
-.hu{
-	border="0"
-		 style="position: fixed ;
-		 font-size: 14px; 
-	     height: 250px;
-	     width: 250px;
-	     border: 0px ;
-	     position: fixed;
-	     top: 400px;
-	     left: 100px;"
-}
-.hu1{
-	border="0"
-		 style="position: fixed ;
-		 font-size: 14px; 
-	     height: 250px;
-	     width: 250px;
-	     border: 0px ;
-	     position: fixed;
-	     top: 500px;
-	     left: 550px;"
-}
-.hu2{
-	border="0"
-		 style="position: fixed ;
-		 font-size: 14px; 
-	     height: 250px;
-	     width: 250px;
-	     border: 0px ;
-	     position: fixed;
-	     top: 500px;
-	     left: 1100px;"
-} 
-.hu3{
-	border="0"
-		 style="position: fixed ;
-		 font-size: 14px; 
-	     height: 250px;
-	     width: 250px;
-	     border: 0px ;
-	     position: fixed;
-	     top: 400px;
-	     left: 1550px;"
-}
- 
- 
- .hu10{
-	 border="0"
-		 style="position: fixed ;
+
+.centerImg{
 		 font-size: 14px; 
 	     height: 25px;
 	     width: 250px;
@@ -73,11 +25,41 @@ div{
 	     position: fixed;
 	     top: 380px;
 	     left: 800px; 
-		 "
+		 
  }
+ .block{
+	 font-size: 14px; 
+	     height: 250px;
+	     width: 250px;
+	     border: 0px ;
+
+}
+.block1{
+	     position: fixed;
+	     top: 400px;
+	     left: 100px;
+}
+.block2{
+	     position: fixed;
+	     top: 500px;
+	     left: 550px;
+}
+.block3{
+	     position: fixed;
+	     top: 500px;
+	     left: 1100px;
+} 
+.block4{		
+	     position: fixed;
+	     top: 400px;
+	     left: 1550px;
+}
  
  
+
  
+ 
+
  
  
  
