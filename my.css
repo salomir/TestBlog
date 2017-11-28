@@ -28,7 +28,7 @@ div{
 		 
  }
  .block{
-	 font-size: 14px; 
+	     font-size: 14px; 
 	     height: 250px;
 	     width: 250px;
 	     border: 0px ;
@@ -55,14 +55,79 @@ div{
 	     left: 1550px;
 }
  
+ .text{
+	 color:#00004A;
+ }
+ .text1{
+	 font-size: 25px;	
+	 position: fixed;
+	     top: 560px;
+	     left: 70px;
+ }
  
-
+ .text11{
+	 font-size: 20px;	
+    
+	position: fixed;
+	     top: 620px;
+	     left: 55px;
+ }
  
+  .text2{
+	 font-size: 25px;	
+    
+	position: fixed;
+	     top: 670px;
+	     left: 520px;
+ }
+ .text22{
+	 font-size: 20px;	
+    
+	position: fixed;
+	     top: 730px;
+	     left: 565px;
+ }
+   .text3{
+	 font-size: 25px;	
+    
+	position: fixed;
+	     top: 660px;
+	     left: 1080px;
+ }
+ .text33{
+	 font-size: 20px;	
+    
+	position: fixed;
+	     top: 720px;
+	     left: 1100px;
+ }
+   .text4{
+	 font-size: 25px;	
+    
+	position: fixed;
+	     top: 560px;
+	     left: 1520px;
+ }
+ .text44{
+	 font-size: 20px;	
+    
+	position: fixed;
+	     top: 620px;
+	     left: 1570px;
+ }
  
-
- 
- 
- 
+ .text5{
+	 	font-size: 40px;	
+        position: fixed;
+		top: 900px;
+		left: 500px;
+ }
+ .text55{
+	 	font-size: 30px;	
+        position: fixed;
+		top: 980px;
+		left: 430px;
+ }
  
  
  
