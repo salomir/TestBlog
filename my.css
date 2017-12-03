@@ -48,14 +48,7 @@ div{
  .text22{
 	 	font-size: 30px;	
  }
-.fullast{
-	  border-radius: 7px;
-      box-shadow: 4px 4px 20px 5px  #000;
-      padding: 0% 0% 0% 0%;
-      margin: 0px auto;
-      width: 30%;
-      background: #B2B817;
-}
+
 .lasttex{
 	font-size: 30px;
 }
@@ -68,44 +61,20 @@ div{
  .nember2{
 	 font-size: 20px;
  }
- .fri1{
-	  margin-left: -70%;
-      margin-right: 0%;
-      margin-top: 0%;
-      margin-bottom: 0%;
-	  padding: 0%;
+ .fri{
+	 display:inline-block;
+	 width: 24%;
+	 
  }
- .fri2{
-	  margin-left: 25%;
-      margin-right: 0%;
-      margin-top: -13%;
-      margin-bottom: -100%;
-	  padding: 0%;
- }
-  .fri3{
-	  margin-left: 33%;
-      margin-right: 0%;
-      margin-top: -17.5%;
-      margin-bottom: 0%;
-	  padding: 0%;
- }
-  .fri4{
-	  margin-left: 50%;
-      margin-right: 0%;
-      margin-top: -31%;
-      margin-bottom: 0%;
-	  padding: 0%;
- }
- .zaebalsy{
-  margin-left: -130%;
-      margin-right: 0%;
-      margin-top: 20%;
-      margin-bottom: 0%;
- }
- 
- 
- 
- 
+ .fullast{
+	  border-radius: 7px;
+      box-shadow: 4px 4px 20px 5px  #000;
+      padding: 0% 0% 0% 0%;
+      margin: 0px auto;
+      width: 30%;
+      background: #B2B817;
+}
+
  
  
  
